@@ -1,4 +1,5 @@
 {
+  "description": "Connects to broker realtime feed adapters and streams broker/strategy events to subscribers for live trading workflows.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "KnowledgeHooks",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Broker Realtime",
-      "text": "Subjective datasource implementation for SubjectiveBrokerRealtimeDataSource.",
+      "text": "Connects to broker realtime feed adapters and streams broker/strategy events to subscribers for live trading workflows.",
       "image": {
         "src": "/subjective_broker_realtime_datasource/icon.svg",
         "alt": "Broker Realtime icon"
